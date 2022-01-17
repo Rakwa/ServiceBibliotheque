@@ -104,6 +104,8 @@ Projet réalisé par Clément NICOLAS, Théo LETOUZE, Julien RAQUOIS
 </livre>
 ```
 #Résultat des tests
+
+Le fichier de test est disponible dans src/main/java/client
 ```
 - Algo recherche async seq
 algo valide : true
